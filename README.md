@@ -3,7 +3,7 @@
   Go-design-patterns
   </h1>
   <br>
-  <table border="1">
+  <table align="center" border="1">
     <tr>
       <td align="center">Author: 021</td>
       <td align="center">Begin: 2020-12-30</td>
@@ -11,6 +11,7 @@
     </tr>
   </table>
 </p>
+
 My note about design pattern with Golang
 
 ## Creational Patterns
