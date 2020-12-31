@@ -18,7 +18,7 @@ My note about design pattern with Golang
 ## Structural Patterns
 | Pattern | Description | Status | Update time |
 | :-----: | :---------: | :----: | :---------: |
-| [Proxy](./structural/proxy.md) | Provides a surrogate for an object to control it's actions | ✔ | 2020-12-30 |
+| [Proxy](./structural/proxy.md) | Provides a surrogate for an object to control it's actions | ✔ | 2020-12-31 |
 
 ## Behavioral Patterns
 ## Synchronization Patterns
